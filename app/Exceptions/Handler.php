@@ -1,7 +1,6 @@
 <?php
 
 namespace App\Exceptions;
-echo 'a';
 
 use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
